@@ -1,0 +1,61 @@
+laml	Acute Myeloid Leukemia
+acc	Adrenocortical carcinoma
+blca	Bladder Urothelial Carcinoma
+boca	Bone Cancer
+lgg	Brain Lower Grade Glioma
+brca	Breast invasive carcinoma
+cesc	Cervical squamous cell carcinoma and endocervical adenocarcinoma
+chol	Cholangiocarcinoma
+clle	Chronic Lymphocytic Leukemia
+cmdi	Chronic Myeloid Disorders
+coad	Colon adenocarcinoma
+colo	Colorectal Cancer
+coadread	Colorectal cancer
+eopc	Early Onset Prostate Cancer
+esad	Esophageal Adenocarcinoma
+esca	Esophageal carcinoma
+chol	Gallbladder cancer
+gbm	Glioblastoma multiforme
+hnsc	Head and Neck squamous cell carcinoma
+kdny	Kidney Cancer
+kich	Kidney Chromophobe
+kirc	Kidney renal clear cell carcinoma
+kirp	Kidney renal papillary cell carcinoma
+liri	Liver Cancer
+lica	Liver Cancer
+linc	Liver Cancer
+hcc	Liver hepatocellular carcinoma
+lihc	Liver hepatocellular carcinoma
+lgg	Lower Grade GLioma
+lung	Lung Cancer
+luad	Lung adenocarcinoma
+lusc	Lung squamous cell carcinoma
+dlbc	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma
+mctp	MCTP
+maly	Malignant Lymphoma
+meso	Mesothelioma
+nbl	Neuroblastoma
+orca	Oral Cancer
+misc	Other Cancer
+ov	Ovarian serous cystadenocarcinoma
+paca	Pancreatic Cancer
+paen	Pancreatic Cancer Endocrine neoplasms
+paad	Pancreatic adenocarcinoma
+pbca	Pediatric Brain Cancer
+pcpg	Pheochromocytoma and Paraganglioma
+prad	Prostate adenocarcinoma
+read	Rectum adenocarcinoma
+reca	Renal Cancer
+sarc	Sarcoma
+secr	Secretory Cancer
+skcm	Skin Cutaneous Melanoma
+stad	Stomach adenocarcinoma
+tgct	Testicular Germ Cell Tumor
+tgct	Testicular Germ Cell Tumors
+thym	Thymoma
+thym	Thymoma
+thca	Thyroid carcinoma
+ucs	Uterine Carcinosarcoma
+ucec	Uterine Corpus Endometrial Carcinoma
+uvm	Uveal Melanoma
+acc	adrenocortical carcinoma
